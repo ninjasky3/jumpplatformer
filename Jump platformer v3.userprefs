@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\Turret\TurretShoot.cs">
+    <Files>
+      <File FileName="Assets\script\enemy\EnemyWalk.cs" Line="110" Column="15" />
+      <File FileName="Assets\script\levelSpawnPoint.cs" Line="26" Column="34" />
+      <File FileName="Assets\script\managers\gameData.cs" Line="120" Column="67" />
+      <File FileName="Assets\script\Turret\TurretShoot.cs" Line="62" Column="18" />
+      <File FileName="Assets\script\player\PlayerMove.cs" Line="20" Column="20" />
+      <File FileName="Assets\script\player\PlayerHealth.cs" Line="74" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

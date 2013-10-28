@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\platform\PlatformDissolve.cs">
+    <Files>
+      <File FileName="Assets\script\platform\PlatformDissolve.cs" Line="4" Column="97" />
+      <File FileName="Assets\script\Turret\TurretShoot.cs" Line="6" Column="2" />
+      <File FileName="Assets\script\Turret\ButtonShoot.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
